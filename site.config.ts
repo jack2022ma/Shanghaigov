@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '上海市黄浦区',
-  domain: 'shanghai.ink.edu.pl',
+  domain: 'shanghaigov.vercel.app',
   author: '上海市黄浦区',
 
   // open graph metadata (optional)
